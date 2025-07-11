@@ -2,7 +2,7 @@
 
 ## Rodrigo Cotrin Guimarães - SP316618X
 
-## Vinicius Crestane Cantaruti - SP316618X
+## Vinicius Crestane Cantaruti - SP3153614
 
 ## Sobre esse projeto 💡
 
