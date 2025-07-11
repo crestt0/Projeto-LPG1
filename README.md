@@ -34,7 +34,7 @@ O projeto serviu para solidificar conceitos importantes de programação orienta
 
 ## Autores
 
-- Github - [@crestt0](https://github.com/crestt0/)
 - Github - [@RodrigoCotrin](https://github.com/RodrigoCotrin)
+- Github - [@crestt0](https://github.com/crestt0/)
 
 ***
