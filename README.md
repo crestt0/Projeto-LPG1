@@ -1,5 +1,9 @@
 # Lista de Afazeres com JavaFX
 
+## Rodrigo Cotrin Guimarães - SP316618X
+
+## Vinicius Crestane Cantaruti - SP316618X
+
 ## Sobre esse projeto 💡
 
 Aplicação desktop de uma "Lista de Afazeres" (To-Do List) desenvolvida em Java e JavaFX. O projeto foi criado com o objetivo de aprimorar nossas habilidades na linguagem, especialmente no desenvolvimento de interfaces gráficas com JavaFX e na manipulação de banco de dados com SQLite.
