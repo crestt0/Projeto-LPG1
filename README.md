@@ -2,11 +2,11 @@
 
 ## Sobre esse projeto 💡
 
-Aplicação desktop de uma "Lista de Afazeres" (To-Do List) desenvolvida em Java. O projeto foi criado com o objetivo de aprimorar minhas habilidades na linguagem, especialmente no desenvolvimento de interfaces gráficas com JavaFX e na manipulação de banco de dados com SQLite.
+Aplicação desktop de uma "Lista de Afazeres" (To-Do List) desenvolvida em Java e JavaFX. O projeto foi criado com o objetivo de aprimorar nossas habilidades na linguagem, especialmente no desenvolvimento de interfaces gráficas com JavaFX e na manipulação de banco de dados com SQLite.
 
 #### <strong>Status: </strong>Concluído ✔️
 
-!(imagem-do-projeto.png)
+<img src="lista.png" alt="Imagem do Projeto">
 
 ## Funcionalidades 🚀
 - [X] Adicionar novas tarefas à lista.
@@ -20,16 +20,17 @@ Aplicação desktop de uma "Lista de Afazeres" (To-Do List) desenvolvida em Java
 - [X] **JavaFX**: Framework para a criação da interface gráfica do usuário (GUI).
 - [X] **SQLite**: Sistema de banco de dados leve para armazenar as tarefas localmente.
 - [X] **Maven**: Ferramenta para gerenciamento de dependências e build do projeto.
+- [X] **CSS**: Ferramenta para estilização do programa. 
 
 ## Aprendizados 🧠
 
-Esse projeto foi um grande passo no meu aprendizado em Java. O principal desafio foi criar uma aplicação desktop funcional que se conectasse a um banco de dados para garantir que os dados do usuário não fossem perdidos. Com o **JavaFX**, pude entender melhor como estruturar e controlar os elementos visuais de uma aplicação. Já o **SQLite** me proporcionou a experiência de implementar a persistência de dados de forma simples e eficaz.
+Esse projeto foi um grande passo no nosso aprendizado em Java. O principal desafio foi criar uma aplicação desktop funcional que se conectasse a um banco de dados para garantir que os dados do usuário não fossem perdidos. Com o **JavaFX**, entendemos melhor como estruturar e controlar os elementos visuais de uma aplicação. Já o **SQLite** proporcionou a experiência de implementar a persistência de dados de forma simples e eficaz.
 
-O projeto serviu para solidificar conceitos importantes de programação orientada a objetos e manipulação de dados, sendo fundamental para minha evolução na matéria de Linguagem de Programação.
+O projeto serviu para solidificar conceitos importantes de programação orientada a objetos, manipulação de dados, design de interfaces e arquiteura MVC, sendo fundamental para evolução na matéria de Linguagem de Programação.
 
-## Autor
+## Autores
 
 - Github - [@crestt0](https://github.com/crestt0/)
-- Linkedin - [@RodrigoCotrin](https://www.linkedin.com/in/rodrigocotrin/)
+- Github - [@RodrigoCotrin](https://github.com/RodrigoCotrin)
 
 ***
